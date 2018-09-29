@@ -1,5 +1,6 @@
 ## work-sec
 Projeto desenvolvido para o evento Hackathon da Indústria 4.0
+
 #O que é a solução?
   A ideia consistem nas seguintes características.
    -Através de sensor como o de código de barras ter a verificação de que o EPI foi retirado para uso. Assim como a devolução do mesmo;
