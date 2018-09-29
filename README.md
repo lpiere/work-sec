@@ -1,4 +1,4 @@
-# work-sec
+# WORK-SEC
 Projeto desenvolvido para o evento Hackathon da Indústria 4.0
 
 ## O que é a solução?
