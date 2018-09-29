@@ -32,10 +32,11 @@ Por meio de uma demonstração do funcionamento. Validando o uso de um EPI e reg
 - Elisson Pereira (*Negócios*)
 - Daniel Carlos Chaves Boll (*Programador*)
 
+____________________________________________________________________________________________________________________________________
 
 # Landing Page
 A landing page para acompanhar mais de perto o projeto está disponível, [clique aqui.](https://worksec605659788.wordpress.com/)
 
-____________________________________________________________________________________________________________________________________
-
+# Design
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
 
