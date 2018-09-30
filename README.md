@@ -61,13 +61,13 @@ para fazer o reconhecimento dos EPIs, atualmente estamos treinando-a para reconh
 ### Aqui as imagens usadas para treinar
 ![alt_text](images/allimages.png)
 
-### Aqui um exemplo de teste
+### Aqui um exemplo de nosso teste
 ![alt_text](images/helmet-vp.png)
 
 
 <div id="exemplo-ilustrativo"></div>
 
-Exemplo ilustrativo
+### Exemplo ilustrativo
 ![alt_text](images/ilustration.png)
 
 O funcionário está tendo seus EPIs identificados no vestuário.
