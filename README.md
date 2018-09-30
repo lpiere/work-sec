@@ -75,10 +75,6 @@ O funcionário está tendo seus EPIs identificados no vestuário, todavia falta 
 <body>
 
 <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
-
-<div style="background-color:black;color:white;padding:30px">Scroll Down</div>
-<div style="background-color:lightgrey;padding:30px 30px 2500px">This example demonstrates how to create a "scroll to top" button that becomes visible when the user starts to scroll the page.</div>
-
 <script>
 // When the user scrolls down 20px from the top of the document, show the button
 window.onscroll = function() {scrollFunction()};
