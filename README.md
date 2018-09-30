@@ -40,5 +40,4 @@ A landing page para acompanhar mais de perto o projeto está disponível, [cliqu
 # Design
 ![alt text](images/bd.png)
 
-![alt text](images\bd.png)
-
+## Data Base
