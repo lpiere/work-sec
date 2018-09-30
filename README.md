@@ -34,7 +34,7 @@ Os recursos que são necessários para a solução são os seguintes:
 Por meio de uma demonstração do funcionamento. Validando o uso de um EPI e registrando o uso desse mesmo. 
 
 ## Componentes da equipe
-- Luan Pieri Santos (*Desenvolvedor hardware*)
+- <a href="https://github.com/lpiere/">Luan Pieri Santos</a> (*Desenvolvedor hardware*)
 - Gabriel Escalante Silva (*Desenvolvedor visão computacional*)
 - Eduardo Fabian de Oliveira (*Designer*)
 - Elisson Pereira (*Negócios*)
