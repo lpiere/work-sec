@@ -50,9 +50,7 @@ A landing page para acompanhar mais de perto o projeto está disponível, [cliqu
 
 ## Data Base
 ![alt text](images/bd.png)
-<p align="center">
-  <img src="images/bd.png">
-</p>
+
 Estamos utilizando a biblioteca SQL (SQLite3) no python, para fazer o armazenamento dos itens adquiridos pela camera e comparar com os itens pré-postos como a lista de EPI necessários do determinado local.
 
 
@@ -66,6 +64,9 @@ para fazer o reconhecimento dos EPIs, atualmente estamos treinando-a para reconh
 
 ### Aqui um exemplo de nosso teste
 ![alt_text](images/helmet-vp.png)
+<p align="center">
+  <img src="images/helmet-vp.png">
+</p>
 
 
 <div id="exemplo-ilustrativo"></div>
