@@ -4,6 +4,7 @@ Projeto desenvolvido para o evento Hackathon da Indústria 4.0
 <a href="#conceptidea">Template Conceito da Ideia</a><br><br>
 <a href="#design">Design</a><br><br>
 <a href="#exemplo-ilustrativo">Exemplo ilustrativo</a>
+<a href="#Video pitch">Pitch</a>
 
 ________________________________________________________________________________________________________________________________________
 
@@ -79,3 +80,8 @@ ________________________________________________________________________________
 [refinar depois]
    - Um código irá identificar o EPI e irá emitir uma string portando 1 ou 0 para caso o funcionário esteja ou não utilizando o EPI corretamente.
    - O outro código irá através do sensor RFID coletar uma TAG e buscá-la no banco de dados, fazendo o cruzamento determinar de que funcionário é aquele EPI e quais as características do mesmo.
+
+________________________________________________________________________________________________________________________________________
+
+## Video pitch
+   -[Pitch video](https://youtube.com/)
