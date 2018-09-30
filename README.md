@@ -2,7 +2,8 @@
 Projeto desenvolvido para o evento Hackathon da Indústria 4.0
 
 <a href="#conceptidea">Template Conceito da Ideia</a><br><br>
-<a href="#design">design</a><br><br>
+<a href="#design">Design</a><br><br>
+<a href="#exemplo-ilustrativo">Exemplo ilustrativo</a>
 
 ________________________________________________________________________________________________________________________________________
 
@@ -55,9 +56,18 @@ Estamos utilizando a biblioteca SQL (SQLite3) no python, para fazer o armazename
 ## Visão computacional
 Estamos utilizando a visão computacional:
 ![alt_text](images/computer-vision.png)
-para fazer o reconhecimento dos EPIs, atualmente estamos treinando-a para reconhecer um _security helmet_
+para fazer o reconhecimento dos EPIs, atualmente estamos treinando-a para reconhecer um _security helmet_.
+
+Aqui as imagens usadas para treinar
 ![alt_text](images/allimages.png)
+
+Aqui um exemplo de teste
 ![alt_text](images/helmet-vp.png)
 
 
-<a href="https://google.com.br">alo</a>
+<div id="exemplo-ilustrativo"></div>
+
+Exemplo ilustrativo
+![alt_text](images/ilustration.png)
+
+O funcionário está tendo seus EPIs identificados no vestuário.
