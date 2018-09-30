@@ -71,3 +71,11 @@ para fazer o reconhecimento dos EPIs, atualmente estamos treinando-a para reconh
 ![alt_text](images/ARTE.png)
 
 O funcionário está tendo seus EPIs identificados no vestuário, todavia falta o óculos para que ele possa entrar na área dos maquinários.
+
+________________________________________________________________________________________________________________________________________
+
+## Como funcionará o codagem
+
+[refinar depois]
+   - Um código irá identificar o EPI e irá emitir uma string portando 1 ou 0 para caso o funcionário esteja ou não utilizando o EPI corretamente.
+   - O outro código irá através do sensor RFID coletar uma TAG e buscá-la no banco de dados, fazendo o cruzamento determinar de que funcionário é aquele EPI e quais as características do mesmo.
