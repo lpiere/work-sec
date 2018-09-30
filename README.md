@@ -38,5 +38,5 @@ ________________________________________________________________________________
 A landing page para acompanhar mais de perto o projeto está disponível, [clique aqui.](https://worksec605659788.wordpress.com/)
 
 # Design
-![alt text](https://pay.google.com/about/static/images/social/knowledge_graph_logo.png)
+![alt text](C:\Users\luaaa\Desktop\hack)
 
