@@ -1,8 +1,11 @@
 # WORK-SEC
 Projeto desenvolvido para o evento Hackathon da Indústria 4.0
 
-<a href="#teste">teste</a>
+<a href="#conceptidea">Template Conceito da Ideia</a>
+<a href="#design">design</a>
 
+________________________________________________________________________________________________________________________________________
+<div id="conceptidea"></div>
 ## O que é a solução?
 É um gerenciamento completo dos EPIs, no estoque, no uso, na validação (se o EPI é utilizável ainda, conforme as regras de qualidade do EPI), no expediente. Gerando uma maior segurança, aumento de produtividade e diminuição de gastos para a empresa, com contratação de fiscais ou de _gasto de energia_ (conforme característica abaixo).
    
@@ -40,19 +43,19 @@ ________________________________________________________________________________
 A landing page para acompanhar mais de perto o projeto está disponível, [clique aqui.](https://worksec605659788.wordpress.com/)
 
 # Design
-Progresso até o momento
+<div id="design"></div>
 
 ## Data Base
 ![alt text](images/bd.png)
 Estamos utilizando a biblioteca SQL (SQLite3) no python, para fazer o armazenamento dos itens adquiridos pela camera e comparar com os itens pré-postos como a lista de EPI necessários do determinado local.
 
-<div id="teste">
+
 ## Visão computacional
 Estamos utilizando a visão computacional:
 ![alt_text](images/computer-vision.png)
 para fazer o reconhecimento dos EPIs, atualmente estamos treinando-a para reconhecer um _security helmet_
 ![alt_text](images/allimages.png)
 ![alt_text](images/helmet-vp.png)
-</div>
+
 
 <a href="https://google.com.br">alo</a>
