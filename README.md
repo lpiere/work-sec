@@ -3,8 +3,8 @@ Projeto desenvolvido para o evento Hackathon da Indústria 4.0
 
 <a href="#conceptidea">Template Conceito da Ideia</a><br><br>
 <a href="#design">Design</a><br><br>
-<a href="#exemplo-ilustrativo">Exemplo ilustrativo</a>
-<a href="#Video pitch">Pitch</a>
+<a href="#exemplo-ilustrativo">Exemplo ilustrativo</a><br><br>
+<a href="#Video-pitch">Pitch</a><br><br>
 
 ________________________________________________________________________________________________________________________________________
 
