@@ -68,6 +68,6 @@ para fazer o reconhecimento dos EPIs, atualmente estamos treinando-a para reconh
 <div id="exemplo-ilustrativo"></div>
 
 ### Exemplo ilustrativo
-![alt_text](images/ilustration.png)
+![alt_text](images/ARTE.png)
 
 O funcionário está tendo seus EPIs identificados no vestuário.
