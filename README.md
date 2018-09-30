@@ -70,4 +70,4 @@ para fazer o reconhecimento dos EPIs, atualmente estamos treinando-a para reconh
 ### Exemplo ilustrativo
 ![alt_text](images/ARTE.png)
 
-O funcionário está tendo seus EPIs identificados no vestuário.
+O funcionário está tendo seus EPIs identificados no vestuário, todavia falta o óculos para que ele possa entrar na área dos maquinários.
