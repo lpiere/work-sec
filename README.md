@@ -5,7 +5,9 @@ Projeto desenvolvido para o evento Hackathon da Indústria 4.0
 <a href="#design">design</a><br><br>
 
 ________________________________________________________________________________________________________________________________________
+
 <div id="conceptidea"></div>
+
 ## O que é a solução?
 É um gerenciamento completo dos EPIs, no estoque, no uso, na validação (se o EPI é utilizável ainda, conforme as regras de qualidade do EPI), no expediente. Gerando uma maior segurança, aumento de produtividade e diminuição de gastos para a empresa, com contratação de fiscais ou de _gasto de energia_ (conforme característica abaixo).
    
