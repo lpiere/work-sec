@@ -35,10 +35,10 @@ Por meio de uma demonstração do funcionamento. Validando o uso de um EPI e reg
 
 ## Componentes da equipe
 - <a href="https://github.com/lpiere/">Luan Pieri Santos</a> (*Desenvolvedor hardware*)
-- Gabriel Escalante Silva (*Desenvolvedor visão computacional*)
-- Eduardo Fabian de Oliveira (*Designer*)
-- Elisson Pereira (*Negócios*)
-- Daniel Carlos Chaves Boll (*Programador*)
+- <a href="https://github.com/gescalante-ml/">Gabriel Escalante Silva</a>(*Desenvolvedor visão computacional*)
+- <a href="https://github.com/eduardofabian/">Eduardo Fabian de Oliveira</a> (*Designer*)
+- <a href="https://github.com/elissonn/">Elisson Pereira</a> (*Negócios*)
+- <a href="https://github.com/daniel-boll/">Daniel Carlos chaves Boll</a> (*Programador*)
 
 ____________________________________________________________________________________________________________________________________
 
