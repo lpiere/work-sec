@@ -50,3 +50,6 @@ Estamos utilizando a visão computacional:
 para fazer o reconhecimento dos EPIs, atualmente estamos treinando-a para reconhecer um _security helmet_
 ![alt_text](images/allimages.png)
 ![alt_text](images/helmet-vp.png)
+
+
+<a href="https://google.com.br">alo</a>
