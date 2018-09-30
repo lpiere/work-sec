@@ -64,10 +64,6 @@ para fazer o reconhecimento dos EPIs, atualmente estamos treinando-a para reconh
 
 ### Aqui um exemplo de nosso teste
 ![alt_text](images/helmet-vp.png)
-<p align="center">
-  <img src="images/helmet-vp.png">
-</p>
-
 
 <div id="exemplo-ilustrativo"></div>
 
