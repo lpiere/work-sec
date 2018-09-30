@@ -48,4 +48,5 @@ Estamos utilizando a biblioteca SQL (SQLite3) no python, para fazer o armazename
 Estamos utilizando a visão computacional:
 ![alt_text](images/computer-vision.png)
 para fazer o reconhecimento dos EPIs, atualmente estamos treinando-a para reconhecer um _security helmet_
-
+![alt_text](images/allimages.png)
+![alt_text](images/helmet-vp.png)
