@@ -28,7 +28,6 @@ void setup() {
 }
 
 void loop() {
-  Serial.println("não há ninguém");
   digitalWrite(D0,0);
   digitalWrite(D1,0);
   digitalWrite(D2,255);  
@@ -105,8 +104,9 @@ void recebePacote(char* topic, byte* payload, unsigned int length)
          digitalWrite(D1,255);
          digitalWrite(D2,0);       
       }
+    }
       delay(5000);
-   }
+   
     
 }
 
