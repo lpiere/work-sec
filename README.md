@@ -38,6 +38,14 @@ ________________________________________________________________________________
 A landing page para acompanhar mais de perto o projeto está disponível, [clique aqui.](https://worksec605659788.wordpress.com/)
 
 # Design
+Progresso até o momento
 
 ## Data Base
 ![alt text](images/bd.png)
+Estamos utilizando a biblioteca SQL (SQLite3) no python, para fazer o armazenamento dos itens adquiridos pela camera e comparar com os itens pré-postos como a lista de EPI necessários do determinado local.
+
+## Visão computacional
+Estamos utilizando a visão computacional:
+![alt_text](images/computer-vision.png)
+para fazer o reconhecimento dos EPIs, atualmente estamos treinando-a para reconhecer um _security helmet_
+
